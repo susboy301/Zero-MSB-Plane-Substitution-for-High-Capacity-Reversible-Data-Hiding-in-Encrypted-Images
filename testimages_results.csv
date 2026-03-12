@@ -1,0 +1,6 @@
+image_name,image_size,embedded_bits,capacity_bpp,extraction_success,psnr
+Baboon (2).bmp,512x512,32528,1.6893,True,inf
+Jetplane (1).tiff,512x512,13788,4.4669,True,inf
+Lena (2).bmp,512x512,45088,4.0984,True,inf
+Man (1).tiff,1024x1024,72216,3.6072,True,inf
+Tiffany.tiff,512x512,50404,4.2051,True,inf
